@@ -288,6 +288,10 @@ h6.search-results-title {
 	color: #ec4445;
 }
 
+a.footer-mail {
+	color: #fff !important;
+}
+
 #toTop{
 	bottom:12px;
     position:fixed;
